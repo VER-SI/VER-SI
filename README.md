@@ -5,11 +5,11 @@ Full-Stack Software Engineer | Recent Graduate | Brunei
 I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB), and I build web applications from end to end: designing the database, writing the backend APIs, and creating the interfaces people actually use. I care about code that is clean, scalable and easy for a team to maintain.actively looking for my next opportunity in full-stack and web development, including entry-level, junior and remote roles.
 
 👨‍💻 What I Do
-🧩 Build full-stack web apps, such as dashboards, admin systems and business platforms
-🔌 Design and develop REST APIs and backend logic
-🗄️ Model and optimize relational databases
-🎨 Create responsive, user-friendly front-end interfaces
-⚡ Focus on performance, security and maintainable code
+Build full-stack web apps, such as dashboards, admin systems and business platforms
+Design and develop REST APIs and backend logic
+Model and optimize relational databases
+Create responsive, user-friendly front-end interfaces
+Focus on performance, security and maintainable code
 
 🛠️ Tech Stack
 Frontend: React, Vue.js, TypeScript, JavaScript, HTML5, CSS3
