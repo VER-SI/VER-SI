@@ -2,7 +2,7 @@ Hi, I'm Haziq 👋
 
 Full-Stack Software Engineer | Recent Graduate | Brunei
 
-I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB), and I build web applications from end to end: designing the database, writing the backend APIs, and creating the interfaces people actually use. I care about code that is clean, scalable and easy for a team to maintain.
+I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB), and I build web applications from end to end: designing the database, writing the backend APIs, and creating the interfaces people actually use. I care about code that is clean, scalable and easy for a team to maintain.actively looking for my next opportunity in full-stack and web development, including entry-level, junior and remote roles.
 
 👨‍💻 What I Do
 🧩 Build full-stack web apps, such as dashboards, admin systems and business platforms
@@ -22,8 +22,5 @@ Landing my first full-time role as a software engineer
 Building scalable, production-ready web applications
 Strengthening my TypeScript and modern React skills
 Writing cleaner architecture and better tested code
-
-💬 Let's Work Together
-I'm a fresh graduate actively looking for my next opportunity in full-stack and web development, including entry-level, junior and remote roles. I'm eager to learn, contribute to a real team and grow quickly. If you have a role or project that fits my skills, I'd love to hear from you.
 
 📫 LinkedIn: linkedin.com/in/YOUR-LINKEDIN
