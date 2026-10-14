@@ -1,6 +1,6 @@
 # Hi, I'm Haziq 👋
 
-### Full-Stack Software Engineer | Recent Graduate | Brunei 🇧🇳
+### Full-Stack Software Engineer | Recent Graduate | Brunei
 
 I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB), and I build web applications from end to end: designing the database, writing the backend APIs, and creating the interfaces people actually use. I care about code that is clean, scalable and easy for a team to maintain.Actively looking for my next opportunity in full-stack and web development, including entry-level, junior and remote roles.
 
