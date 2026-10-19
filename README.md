@@ -14,7 +14,7 @@ I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Vue.js, TypeScript, JavaScript, HTML5, CSS3
+- **Frontend:** React, Vue.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind
 - **Backend:** Laravel, PHP, Node.js
 - **Database & Cloud:** MySQL, Firebase
 - **Tools:** Git, GitHub, VS Code
