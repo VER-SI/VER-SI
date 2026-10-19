@@ -28,4 +28,4 @@ I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB
 
 📫 **LinkedIn:** [linkedin.com/in/haziq-hazri-dev](https://www.linkedin.com/in/haziq-hazri-dev/)
 
-💻 **Portfolio Website:** .(haziq-portfolio-site.vercel.app).
+💻 **Portfolio Website:** [haziq-portfolio-site.vercel.app](https://haziq-portfolio-site.vercel.app)
