@@ -27,4 +27,5 @@ I'm a recent Software Development graduate from Universiti Teknologi Brunei (UTB
 - Writing cleaner architecture and better tested code
 
 📫 **LinkedIn:** [linkedin.com/in/haziq-hazri-dev](https://www.linkedin.com/in/haziq-hazri-dev/)
+
 💻 **Portfolio Website:** .(haziq-portfolio-site.vercel.app).
